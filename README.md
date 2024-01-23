@@ -35,4 +35,4 @@
   - b, c, h : positoin of voxel
 
 ## Reference
-* [한국정보처리학회 ACK2021(추계학술발표대회)](https://koreascience.kr/article/CFKO202133648851928.pub?&lang=ko)
+* [한국정보처리학회 ACK2021(추계학술발표대회)](https://kiss.kstudy.com/Detail/Ar?key=3921316)
